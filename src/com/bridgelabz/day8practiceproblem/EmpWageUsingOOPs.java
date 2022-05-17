@@ -4,6 +4,7 @@ package com.bridgelabz.day8practiceproblem;
 import java.util.Random;
 
 public class EmpWageUsingOOPs{
+
     public static final int EmployeRatePerHour = 20;
     public static final int NoWorkingDays = 20;
     public static final int HourInMonth = 100;

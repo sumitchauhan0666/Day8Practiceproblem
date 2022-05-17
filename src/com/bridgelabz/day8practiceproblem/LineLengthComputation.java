@@ -8,6 +8,7 @@ public class LineLengthComputation{
     static Double length1, length2;
 
     public void getcoordinates() {
+
         Scanner sc = new Scanner(System.in);
         //for line 1
         System.out.println("Enter co-ordinates for point 1(x1,y1) of line 1");
